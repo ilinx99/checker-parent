@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="presentation">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <property name="java-output-path" value="/presentation/target/checker-1.0/WEB-INF/classes"/>
+        <property name="context-root" value="presentation"/>
+    </wb-module>
+</project-modules>
